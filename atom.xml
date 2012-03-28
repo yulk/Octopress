@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://yulk.github.com/Octopress/atom.xml" rel="self"/>
   <link href="http://yulk.github.com/Octopress/"/>
-  <updated>2012-03-29T00:09:06+08:00</updated>
+  <updated>2012-03-29T00:13:08+08:00</updated>
   <id>http://yulk.github.com/Octopress/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -18,7 +18,27 @@
     <link href="http://yulk.github.com/Octopress/blog/2012/03/29/first-post/"/>
     <updated>2012-03-29T00:06:00+08:00</updated>
     <id>http://yulk.github.com/Octopress/blog/2012/03/29/first-post</id>
-    <content type="html"><![CDATA[
+    <content type="html"><![CDATA[<h1>中文测试，看看怎么样吧。</h1>
+
+<p><strong>MarkdownPad</strong> is a full-featured Markdown editor for Windows.</p>
+
+<h2>Full control over your documents</h2>
+
+<p>Want to make something <strong>bold</strong>? Press <code>Ctrl + B</code>.</p>
+
+<p>How about <em>italic</em>? Press <code>Ctrl + I</code>.</p>
+
+<blockquote><p>Write a quote with <code>Ctrl + Q</code></p></blockquote>
+
+<p>No matter what you&#8217;re working on, you&#8217;ll have quick access to Markdown syntax with handy keyboard shortcuts and toolbar buttons.</p>
+
+<h2>See your changes instantly with LivePreview</h2>
+
+<p>Don&#8217;t guess if your <a href="http://markdownpad.com">hyperlink syntax</a> is correct; LivePreview will show you exactly what your document looks like every time you press a key.</p>
+
+<h2>Make it your own</h2>
+
+<p>Fonts, sizes, color schemes, and even the HTML stylesheets are 100% customizable so you can turn MarkdownPad into your ideal editor.</p>
 ]]></content>
   </entry>
   
